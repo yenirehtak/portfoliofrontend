@@ -1,0 +1,7 @@
+.socials-card{
+    display:block;
+    flex-wrap: wrap;
+}
+.hiperlink-social{
+    margin: 0.9rem;
+}

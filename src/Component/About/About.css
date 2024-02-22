@@ -1,0 +1,35 @@
+.About{
+    display: flex;
+    margin: 10px auto;
+    width: 80%;
+    padding: 2rem;
+    border-radius: 3%;
+    box-shadow: none;
+}
+
+.div-foto{
+    display: inline;
+}
+
+.foto-perfil{
+    width: 100%;
+}
+
+.Descripcion{
+    justify-content:center;
+}
+
+.skills{
+    color: rgb(145, 173, 128);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+.skill{
+    background-color: rgb(215, 200, 175);
+    margin: 0.3rem;
+    padding: 0.8rem;
+    border-radius: 6%;
+}

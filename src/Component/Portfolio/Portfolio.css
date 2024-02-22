@@ -1,0 +1,25 @@
+.mega-card-portfolio{
+    display: grid;
+    flex-wrap: wrap;
+}
+
+.individual-card{
+    background-image: url('https://i.ibb.co/GQG3hx1/Blue-Gradient-Modern-Zoom-Virtual-Background-1.png');
+    background-size: cover;
+    margin: 2rem auto;
+    box-shadow: none;
+    border-radius: 3%;
+    padding: 1%;
+}
+
+.imagen-proyecto{
+    width: 80%;
+}
+
+.boton-visitar{
+    color:  rgb(145, 173, 128);
+    text-decoration: underline;
+    text-decoration-style:solid;
+    padding: 0.8rem;
+    border-radius: 3%;
+}
